@@ -1,4 +1,4 @@
-# BrainPower
+## BrainPower
 Are you ready.
 Adrenaline is pumping,    Adrenaline is pumping,  Generator.
 Automatic Lover,  Atomic, Atomic, Overdrive,    Blockbuster,   Brainpower,  Call me a leader.
